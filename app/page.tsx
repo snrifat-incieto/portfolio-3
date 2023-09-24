@@ -36,7 +36,6 @@ export default function Home() {
 			<div className="my-16 text-center animate-fade-in">
 				<h2 className="text-sm text-zinc-500 ">
 					Hi, my name is Shahoriar Nazim Rifat, I'm a passionate traveler and dedicated System Administrator, navigating the world of technology and exploration
-					</br>
 					at{" "}
 					<Link
 						target="_blank"
@@ -45,6 +44,7 @@ export default function Home() {
 					>
 						incieto.
 					</Link>
+
 				</h2>
 			</div>
 		</div>

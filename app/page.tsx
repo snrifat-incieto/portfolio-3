@@ -35,26 +35,16 @@ export default function Home() {
 			<div className="hidden w-screen h-px animate-glow md:block animate-fade-right bg-gradient-to-r from-zinc-300/0 via-zinc-300/50 to-zinc-300/0" />
 			<div className="my-16 text-center animate-fade-in">
 				<h2 className="text-sm text-zinc-500 ">
-					Hi, my name is Andreas, I'm building serverless and open source
-					solutions at{" "}
+					Hi, my name is Shahoriar Nazim Rifat, I'm a passionate traveler and dedicated System Administrator, navigating the world of technology and exploration
+					</br>
+					at{" "}
 					<Link
 						target="_blank"
-						href="https://upstash.com"
+						href="https://incieto.com"
 						className="underline duration-500 hover:text-zinc-300"
 					>
-						Upstash
+						incieto.
 					</Link>
-
-					<br />
-					and working on{" "}
-					<Link
-						target="_blank"
-						href="https://unkey.dev"
-						className="underline duration-500 hover:text-zinc-300"
-					>
-						unkey.dev
-					</Link>{" "}
-					at night.
 				</h2>
 			</div>
 		</div>
